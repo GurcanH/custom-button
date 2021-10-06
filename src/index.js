@@ -3,7 +3,7 @@ import '../style/button.scss'
 export default class CustomButton extends Component {
     render() {
         return (
-            <button>Custom Button</button>
+            <button onClick={() => console.log('Custom Button!!')}>Custom Button</button>
         )
     }
 }
