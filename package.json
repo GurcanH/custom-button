@@ -2,7 +2,7 @@
     "name": "@grcnhml/custom-button",
     "module": "dist/custom-button",
     "description": "A custom button for React",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "Gurcan Hamali",
         "email": "gurcanhamali@gmail.com"
